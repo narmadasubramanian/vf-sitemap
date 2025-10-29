@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.bestbuy.com/trade-in</loc></url>
-  <url><loc>https://www.bestbuy.com/site/help-topics/trade-in-faqs/pcmcat140259160052.c?id=pcmcat140259160052</loc></url>
-  <url><loc>https://www.bestbuy.com/site/help-topics/returns-and-exchanges/pcmcat260800050014.c?id=pcmcat260800050014</loc></url>
+  <url>
+    <loc>https://www.bestbuy.com/trade-in</loc>
+  </url>
+  <url>
+    <loc>https://www.bestbuy.com/site/help-topics/trade-in-faqs/pcmcat140259160052.c?id=pcmcat140259160052</loc>
+  </url>
+  <url>
+    <loc>https://www.bestbuy.com/site/help-topics/returns-and-exchanges/pcmcat260800050014.c?id=pcmcat260800050014</loc>
+  </url>
+  <url>
+    <loc>https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&amp;st=iphone</loc>
+  </url>
+  <url>
+    <loc>https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&amp;st=tablets</loc>
+  </url>
 </urlset>
